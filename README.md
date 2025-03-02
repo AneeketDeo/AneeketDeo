@@ -8,7 +8,7 @@
 - 🌱 **Exploring:** **LLM-powered chatbots**, **Autonomous Agents**, and **RAG-based AI systems**  
 - 💡 **Passionate About:** **AI, Machine Learning, and Decentralized AI Architectures**  
 - 💬 **Ask Me About:** AI agents, chatbots, LLM integrations, and backend development  
-- 🎯 **Goals for 2024:** Contribute more to **open-source AI projects** & publish research on **multi-agent collaboration**  
+- 🎯 **Goals for 2025:** Contribute more to **open-source AI projects** & publish research on **multi-agent collaboration**  
 
 ---
 
